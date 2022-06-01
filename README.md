@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1. npx create-react-app my-app
+2. cd .\my-app\
+3. npm i react-router@next history react-router-dom@next
+
 ## Available Scripts
 
 In the project directory, you can run:
