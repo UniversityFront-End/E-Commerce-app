@@ -1,0 +1,31 @@
+.bgimg-1{
+    position: relative;
+    opacity: 0.65;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  .HomePage {
+    background-image: url("./homepage-A1.png");
+    width: 100%;
+  }
+  
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #0000001f;
+  }
+  
+  .caption span.border {
+    background-color: #11111182;
+    color: #91cfff;
+    padding: 10px;
+    font-size: 25px;
+    letter-spacing: 5px;
+    border: 1px solid rgb(248, 248, 248)!important;
+    border-radius: 16px;
+  }
